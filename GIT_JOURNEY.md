@@ -1,11 +1,11 @@
 # My Git Mastery Challenge Journey
 
 ## Student Information
-- Name: [YOUR NAME]
-- Student ID: [YOUR ID]
-- Repository: [YOUR REPO URL]
-- Date Started: [DATE]
-- Date Completed: [DATE]
+- Name: bhavana lokesh venkata vinay
+- Student ID: 24555A4602
+- Repository:https://github.com/lokesh2005-design/24555A4602
+- Date Started:28
+- Date Completed:29
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
